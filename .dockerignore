@@ -1,0 +1,5 @@
+*
+!shared
+!emscripten
+!.dockerignore
+!Dockerfile
